@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{04/node_modules}" />
+    <file url="PROJECT" libraries="{04/node_modules, @types/cheerio, @types/express, @types/mongodb, @types/mongoose, @types/schema-registry}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
